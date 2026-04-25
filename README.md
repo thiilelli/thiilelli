@@ -34,10 +34,5 @@ Currently building a multimodal anomaly detection system using self-supervised l
 | Classical ML | XGBoost · scikit-learn · feature engineering |
 | NLP | DistilBERT · Word2Vec · TF-IDF · NLTK |
 | Systems | C++ · Python/C++ integration |
-| Languages | French (C2) · English (C1) · Arabic (native) |
+| Languages | English (C1) · French (C2) |
 
----
-
-## Contact
-
-📬 [LinkedIn](https://www.linkedin.com/in/TON_LIEN) · ✉️ TON_EMAIL
