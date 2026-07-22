@@ -1,38 +1,24 @@
-# Thilleli
+# Thilleli ROUAS
 
-MSc in Intelligent Information Systems  
-Seeking a PhD position in AI/ML 
----
+**MSc in Intelligent Information Systems — Seeking a PhD position in AI/ML**
 
-## About
-
-I work on machine learning and deep learning, with a focus on research-oriented projects.  
-My interests span a wide range of AI topics — from generative models and NLP to computer vision and beyond.
-
-Currently building a multimodal anomaly detection system using self-supervised learning.
-
----
+Machine learning and NLP, with a focus on health and clinical applications.
 
 ## Projects
 
 | Project | Description | Stack |
-|---|---|---|
-| [Multimodal Anomaly Detection](https://github.com/thiilelli/multimodal-anomaly-detection) | Anomaly detection from images, text and time series — VAE + self-supervised learning | PyTorch · DistilBERT · LSTM |
-| [Parkinson Motor Score Prediction](https://github.com/thiilelli/parkinson-ens-challenge) | ENS Data Challenge — XGBoost · RMSE 7.37 | XGBoost · scikit-learn |
-| [Siamese Face Recognition](https://github.com/thiilelli/siamese-face-recognition) | Face verification with Siamese Network — 88.75% accuracy | TensorFlow · Keras |
-| [WGAN-GP](https://github.com/thiilelli/GANs) | Wasserstein GAN with Gradient Penalty on MNIST | PyTorch |
-| [Fraud Detection](https://github.com/thiilelli/fraud-detection) | Random Forest · Precision 1.0 · AUC 0.99 | scikit-learn |
-| [Twitter Sentiment Classification](https://github.com/thiilelli/twitter-sentiment-classification) | TF-IDF vs Word2Vec vs POS tags · Logistic Regression | NLTK · scikit-learn |
-
----
+| --- | --- | --- |
+| Clinical NLP (French) | CamemBERT-bio reproduction on QUAERO — biomedical NER | PyTorch · HF Transformers |
+| Parkinson Motor Score | ENS Data Challenge — ranked 19th / 191 | XGBoost · LightGBM · CatBoost |
+| Twitter Sentiment | TF-IDF vs Word2Vec vs POS features | NLTK · scikit-learn |
+| WGAN-GP | Wasserstein GAN with gradient penalty | PyTorch |
 
 ## Skills
 
-| Area | Tools |
-|---|---|
-| Deep Learning | PyTorch · TensorFlow · VAE · GAN · Transformers |
-| Classical ML | XGBoost · scikit-learn · feature engineering |
-| NLP | DistilBERT · Word2Vec · TF-IDF · NLTK |
-| Systems | C++ · Python/C++ integration |
-| Languages | English (C1) · French (C2) |
+**NLP** · Hugging Face Transformers · Word2Vec · TF-IDF · NLTK
+**ML / DL** · PyTorch · TensorFlow · XGBoost · scikit-learn
+**Tools** · Git · Colab · Hugging Face Hub · Kaggle
 
+## Languages
+
+French (C2) · English (professional proficiency)
