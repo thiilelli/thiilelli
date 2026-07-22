@@ -1,5 +1,3 @@
-# Thilleli ROUAS
-
 **MSc in Intelligent Information Systems — Seeking a PhD position in AI/ML**
 
 Machine learning and NLP, with a focus on health and clinical applications.
